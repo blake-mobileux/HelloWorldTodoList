@@ -1,0 +1,11 @@
+﻿body{
+    background-color:#F5F5F5;
+}
+
+#todoapp{
+    margin-top:300pt;
+}
+
+#main, #footer {
+	display: none;
+}

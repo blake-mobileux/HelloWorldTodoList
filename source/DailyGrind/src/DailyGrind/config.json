@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "DailyGrind"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-DailyGrind-7d7e5bb8-cda6-4326-84f1-b6cf1205ca07;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
